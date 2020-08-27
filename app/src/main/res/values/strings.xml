@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Screen Title</string>
+    <string name="iFecha">Fecha</string>
+    <string name="iNombre">Nombre Completo</string>
+    <string name="iTelefono">Teléfono</string>
+    <string name="iEmail">Email</string>
+    <string name="iDescripcion">Descripcion</string>
+    <string name="btText">Siguiente</string>
+    <string name="titScreen">Confirmar Datos</string>
+    <string name="defaul">asd</string>
+    <string name="editar_datos">Editar datos</string>
+</resources>
